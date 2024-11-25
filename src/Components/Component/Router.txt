@@ -1,0 +1,17 @@
+    React Router is a library that allows you to
+    handle navigation between different components
+    (pages) in a React application. It makes it
+    possible to build Single Page Applications 
+    (SPAs) where different views or pages can be 
+    rendered based on the URL, without reloading 
+    the entire page.
+
+
+    route: Define which component to render for a given parh.
+    link: Navigate between different routes without reloading the page.
+    Dynamic Routing: Handle dynamic URLs(e.g., /user/id)
+    Nested Routes: Handle routes inside other routes (subpages).
+    Protected Routes: secure routes that are accessible only to authenticated users.
+
+    npm install react-router-dom
+    

@@ -1,0 +1,11 @@
+react hooks provides a way to use state and other react features in functional components, making them powerful and flexble. 
+
+useEffect: Handle side effects like fetching data, subscriptions, or modifying the DOM, control when it runs by providing dependencies.
+
+useRef: maintain values across render and interact with DOM elements without causing re-render.
+
+Custom hooks: Reuse stateful logic across components by creating your own hooks
+
+useMemo: optimize performance by memoizing expensive calulations that only run when their dependencies change.
+
+useCalllback: memoize function to prevent unnecessary re-renders in child components.

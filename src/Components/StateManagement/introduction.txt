@@ -1,0 +1,3 @@
+it helps you efficiently manage data and share it between different components. 
+react provides built-in tools like useState and useContent for basic state management.
+Redux used to manage large applicaiton.

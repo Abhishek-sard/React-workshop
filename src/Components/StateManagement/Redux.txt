@@ -1,0 +1,3 @@
+//redux is one of the most popular state management libraries that helps manage global state in a predictable way.
+
+
